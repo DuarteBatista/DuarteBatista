@@ -37,26 +37,32 @@ Hello, I'm Duarte Batista and I have a degree in Computer Engineering from the P
 
 ## 💾 Skills
 
-| Programming languages   | Networking             | System Administration | Virtualization | Cybersecurity
-| ----------              |----------              |----------|----------|----------|
-| C                       | TCP/IP protocol stack  | ---------- |
-| C#                      | IoT                    | ---------- |
-| Java                    | ARP                    | ---------- |
-| Bash                    | LAN                    | ---------- |
-| Windows Batch           | DHCP                   | ---------- |
-| Perl                    | EIGRP                  | ----------  |
-| SQL                     | RIP                    | ---------- |
-| NoSQL                   | OSPF                   | ----------  |
-| ----------              | BGP                    | ---------- |
-| ----------              | MPLS                   | ---------- |
-| ----------              | QoS                    | ---------- |
-| ----------              |----------              |----------|----------|----------|
+| Programming languages   | Networking             | System Administration | Virtualization | Cybersecurity | Web Applications
+| ----------              |----------              |----------|----------|----------|----------|
+| C                       | TCP/IP protocol stack  | Linux |Hypervisors| Wireshark |JSON|
+| C#                      | IoT                    | REGEX |Containers| Cryptography |XML|
+| Java                    | ARP                    | Apache Server |VMware| Nmap |SOAP|
+| Bash                    | LAN                    | SAMBA |Citrix| Iptables |HTTP|
+| Windows Batch           | DHCP                   | NFS |Hyper-V| Proxy |HTTPS|
+| Perl                    | EIGRP                  | Nagios  |VirtualBox|----------| Wordpress |
+| SQL                     | RIP                    | VoIP |Docker|----------| HTML |
+| NoSQL                   | OSPF                   | SDN  | OpenStack |----------| CSS |
+| ----------              | BGP                    | SSH | Kubernetes|----------| PHP |
+| ----------              | MPLS                   | ffmpeg |----------|----------| Laravel |
+| ----------              | QoS                    | Nginx |----------|----------| JavaScript |
+| ----------              | IPv4                   | MySQL |----------|----------| Vue.js |
+| ----------              | IPv6                   |----------|----------|----------| API |
+| ----------              | VPN                    |----------|----------|----------| API REST |
+| ----------              | Firewalls              |----------|----------|----------| WebSocket
+| ----------              | MQTT                   |----------|----------|----------|
 
-## 📑 Projetos
+These are some of the skills I already have, and the aim is to add many more to this table
 
-## 📜 Projeto Final
+## 📑 Projects 
 
-## 🔎 Investigações
+## 📜 Final Degree project
+
+## 🔎 Investigations
 
 
 - 👋 Hi, I’m @DuarteBatista
