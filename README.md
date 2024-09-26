@@ -60,18 +60,13 @@ These are some of the skills I already have, and the aim is to add many more to 
 
 ## 📑 Projects 
 
+### [Smart-Parking-Prototype](https://github.com/DuarteBatista/Smart-Parking-Prototype)
+IoT solution to present the user with various measurements from sensors and actuators present in the car park
+
 ## 📜 Final Degree project
 
 ## 🔎 Investigations
 
-
-- 👋 Hi, I’m @DuarteBatista
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 DuarteBatista/DuarteBatista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
