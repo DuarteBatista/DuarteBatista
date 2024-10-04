@@ -60,6 +60,9 @@ These are some of the skills I already have, and the aim is to add many more to 
 
 ## 📑 Projects 
 
+### [SLSSEI---Setup-Linux-Server-to-be-Secured-Exposed-to-the-Internet](https://github.com/DuarteBatista/SLSSEI---Setup-Linux-Server-to-be-Secured-Exposed-to-the-Internet)
+Create and configure a Linux server that would be securely exposed on the Internet.
+
 ### [ANCVIVC---Advanced-Network-Configuration-of-several-Virtual-ISPs-and-Virtual-Companie](https://github.com/DuarteBatista/ANCVIVC---Advanced-Network-Configuration-of-several-Virtual-ISPs-and-Virtual-Companie)
 Plan, design, configure and document a network scenario with several interconnected  virtual ISPs and provide connectivity to a virtual business customer.
 
